@@ -2,8 +2,9 @@ name: "🐛 Bug Report"
 description: "Report a bug"
 title: "<title>"
 labels: [
-"bug"
+  "bug"
 ]
+projects: ["xKabbe/14"]
 body:
   # Description
   - type: textarea

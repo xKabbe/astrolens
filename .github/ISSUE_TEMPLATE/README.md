@@ -12,6 +12,7 @@ You can set the following top-level keys for each issue form.
 | `assignees`   | 	People who will be automatically assigned to issues created with this template.	                                                                                                     | Optional  | 	Array or comma-delimited string |
 | `labels`      | 	Labels that will automatically be added to issues created with this template. If a label does not already exist in the repository, it will not be automatically added to the issue.	 | Optional  | 	Array or comma-delimited string |
 | `title`       | 	A default title that will be pre-populated in the issue submission form.	                                                                                                            | Optional  | 	String                          |
+| `projects`    | Projects that any issues created with this template will automatically be added to. The format of this key is `PROJECT-OWNER/PROJECT-NUMBER`.                                         | Optional  | Array or comma-delimited string  |
 
 For the available body input types and their syntax's, see [Syntax for GitHub's form schema](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-githubs-form-schema).
 

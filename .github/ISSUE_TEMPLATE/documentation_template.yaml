@@ -4,6 +4,7 @@ title: "<title>"
 labels: [
   "documentation"
 ]
+projects: ["xKabbe/14"]
 body:
   # Description
   - type: textarea

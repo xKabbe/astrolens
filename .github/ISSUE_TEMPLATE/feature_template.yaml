@@ -6,6 +6,7 @@ labels: [
   "test",
   "documentation"
 ]
+projects: ["xKabbe/14"]
 body:
   # Description
   - type: textarea

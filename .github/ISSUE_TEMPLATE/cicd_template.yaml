@@ -5,6 +5,7 @@ labels: [
   "github actions",
   "enhancement"
 ]
+projects: ["xKabbe/14"]
 body:
   # Description
   - type: textarea

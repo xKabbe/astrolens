@@ -45,22 +45,22 @@
 
 ## Features
 
-| Feature | Description | Milestone |
-| ------- | ----------- | --------- |
-| `Exoplanet Analysis (Transit Method)` | Detect exoplanets by analyzing light curves and model their orbital characteristics. | [Milestone 1: Exoplanetary Analysis Tools](https://github.com/xKabbe/astrolens/milestone/2) |
-| `Transit Light Curve Simulator` | Simulate light curves for exoplanets based on user-defined parameters. | [Milestone 1: Exoplanetary Analysis Tools](https://github.com/xKabbe/astrolens/milestone/2) |
-| `Radial Velocity Analysis` | Detect Doppler shifts in star spectra to identify exoplanets. | [Milestone 1: Exoplanetary Analysis Tools](https://github.com/xKabbe/astrolens/milestone/2) |
-| `Exoplanet Data Aggregator and Visualizer` | Aggregate and visualize exoplanet data from multiple sources. | [Milestone 2: Exoplanet Data Aggregation and Visualization](https://github.com/xKabbe/astrolens/milestone/3) |
-| `Transit Event Prediction and Visualization` | Predict and visualize upcoming exoplanet transit events. | [Milestone 2: Exoplanet Data Aggregation and Visualization](https://github.com/xKabbe/astrolens/milestone/3) |
-| `Light Curve Plotting for Variable Stars` | Plot and analyze brightness variations of variable stars. | [Milestone 3: Stellar Analysis Tools](https://github.com/xKabbe/astrolens/milestone/4) |
-| `Stellar Temperature Distribution` | Visualize the temperature distribution of stars within a dataset. | [Milestone 3: Stellar Analysis Tools](https://github.com/xKabbe/astrolens/milestone/4) |
-| `Star Color-Magnitude Diagram` | Analyze the relationship between star colors and magnitudes. | [Milestone 3: Stellar Analysis Tools](https://github.com/xKabbe/astrolens/milestone/4) |
-| `Star Magnitude Histogram` | Display histograms of star magnitudes within a dataset. | [Milestone 3: Stellar Analysis Tools](https://github.com/xKabbe/astrolens/milestone/4) |
-| `Satellite Tracker` | Real-time tracking and visualization of satellite positions. | [Milestone 4: Satellite and Orbital Tracking Tools](https://github.com/xKabbe/astrolens/milestone/5) |
-| `International Space Station (ISS) Tracker` | Track the ISS in real-time and predict upcoming passes. | [Milestone 4: Satellite and Orbital Tracking Tools](https://github.com/xKabbe/astrolens/milestone/5) |
-| `Satellite Flyover Predictor` | Predict upcoming satellite flyovers based on user location. | [Milestone 4: Satellite and Orbital Tracking Tools](https://github.com/xKabbe/astrolens/milestone/5) |
-| `Satellite Communication Frequency Finder` | Search for communication frequencies used by satellites. | [Milestone 4: Satellite and Orbital Tracking Tools](https://github.com/xKabbe/astrolens/milestone/5) |
-| `Night Sky Brightness Mapper` | Visualize night sky brightness and light pollution levels. | [Milestone 5: Night Sky Observation and Visualization Tools](https://github.com/xKabbe/astrolens/milestone/6) |
-| `Moon Phases Visualization` | Visualize the phases of the Moon over time, including rise/set times. | [Milestone 5: Night Sky Observation and Visualization Tools](https://github.com/xKabbe/astrolens/milestone/6) |
-| `Astronomical Event Calendar` | List upcoming astronomical events like eclipses and meteor showers. | [Milestone 5: Night Sky Observation and Visualization Tools](https://github.com/xKabbe/astrolens/milestone/6) |
-| `Aurora Viewing Alerts` | Provide alerts for aurora visibility based on geomagnetic activity forecasts. | [Milestone 5: Night Sky Observation and Visualization Tools](https://github.com/xKabbe/astrolens/milestone/6) |
+| Feature                                      | Description                                                                          | Milestone                                                                                                     |
+|----------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| `Exoplanet Analysis (Transit Method)`        | Detect exoplanets by analyzing light curves and model their orbital characteristics. | [Milestone 1: Exoplanetary Analysis Tools](https://github.com/xKabbe/astrolens/milestone/2)                   |
+| `Transit Light Curve Simulator`              | Simulate light curves for exoplanets based on user-defined parameters.               | [Milestone 1: Exoplanetary Analysis Tools](https://github.com/xKabbe/astrolens/milestone/2)                   |
+| `Radial Velocity Analysis`                   | Detect Doppler shifts in star spectra to identify exoplanets.                        | [Milestone 1: Exoplanetary Analysis Tools](https://github.com/xKabbe/astrolens/milestone/2)                   |
+| `Exoplanet Data Aggregator and Visualizer`   | Aggregate and visualize exoplanet data from multiple sources.                        | [Milestone 2: Exoplanet Data Aggregation and Visualization](https://github.com/xKabbe/astrolens/milestone/3)  |
+| `Transit Event Prediction and Visualization` | Predict and visualize upcoming exoplanet transit events.                             | [Milestone 2: Exoplanet Data Aggregation and Visualization](https://github.com/xKabbe/astrolens/milestone/3)  |
+| `Light Curve Plotting for Variable Stars`    | Plot and analyze brightness variations of variable stars.                            | [Milestone 3: Stellar Analysis Tools](https://github.com/xKabbe/astrolens/milestone/4)                        |
+| `Stellar Temperature Distribution`           | Visualize the temperature distribution of stars within a dataset.                    | [Milestone 3: Stellar Analysis Tools](https://github.com/xKabbe/astrolens/milestone/4)                        |
+| `Star Color-Magnitude Diagram`               | Analyze the relationship between star colors and magnitudes.                         | [Milestone 3: Stellar Analysis Tools](https://github.com/xKabbe/astrolens/milestone/4)                        |
+| `Star Magnitude Histogram`                   | Display histograms of star magnitudes within a dataset.                              | [Milestone 3: Stellar Analysis Tools](https://github.com/xKabbe/astrolens/milestone/4)                        |
+| `Satellite Tracker`                          | Real-time tracking and visualization of satellite positions.                         | [Milestone 4: Satellite and Orbital Tracking Tools](https://github.com/xKabbe/astrolens/milestone/5)          |
+| `International Space Station (ISS) Tracker`  | Track the ISS in real-time and predict upcoming passes.                              | [Milestone 4: Satellite and Orbital Tracking Tools](https://github.com/xKabbe/astrolens/milestone/5)          |
+| `Satellite Flyover Predictor`                | Predict upcoming satellite flyovers based on user location.                          | [Milestone 4: Satellite and Orbital Tracking Tools](https://github.com/xKabbe/astrolens/milestone/5)          |
+| `Satellite Communication Frequency Finder`   | Search for communication frequencies used by satellites.                             | [Milestone 4: Satellite and Orbital Tracking Tools](https://github.com/xKabbe/astrolens/milestone/5)          |
+| `Night Sky Brightness Mapper`                | Visualize night sky brightness and light pollution levels.                           | [Milestone 5: Night Sky Observation and Visualization Tools](https://github.com/xKabbe/astrolens/milestone/6) |
+| `Moon Phases Visualization`                  | Visualize the phases of the Moon over time, including rise/set times.                | [Milestone 5: Night Sky Observation and Visualization Tools](https://github.com/xKabbe/astrolens/milestone/6) |
+| `Astronomical Event Calendar`                | List upcoming astronomical events like eclipses and meteor showers.                  | [Milestone 5: Night Sky Observation and Visualization Tools](https://github.com/xKabbe/astrolens/milestone/6) |
+| `Aurora Viewing Alerts`                      | Provide alerts for aurora visibility based on geomagnetic activity forecasts.        | [Milestone 5: Night Sky Observation and Visualization Tools](https://github.com/xKabbe/astrolens/milestone/6) |
