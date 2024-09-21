@@ -5,11 +5,11 @@
 <p align="center">
    <a href="https://www.python.org/">
       <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/Python-3.12-44cc11?logo=python" /></a>
-   <a href="...">
+   <a href="https://www.rust-lang.org/">
       <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/Rust-grey?logo=rust" /></a>
-   <a href="...">
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/JavaScript-grey?logo=javascript" /></a>
-   <a href="...">
+   <a href="https://www.typescriptlang.org/">
       <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/TypeScript-grey?logo=typescript" /></a>
 </p>
 
