@@ -1,4 +1,4 @@
-<p align="center"><img src="public\astrolens.png" style="width: 250px; height: 250px;"></p>
+<p align="center"><img src="./public/astrolens.png" style="width: 250px; height: 250px;" alt=""></p>
 
 <h1 align="center">AstroLens</h1>
 
@@ -47,58 +47,37 @@
 
 ## Features
 
-### 🪐 Exoplanetary Analysis Tools
-### 📊 Exoplanet Data Aggregation and Visualization
-### ⭐ Stellar Analysis Tools
-### 🛰️ Satellite and Orbital Tracking Tools
-### 🌠 Night Sky Observation and Visualization Tools
-
-
 ### 🪐 [Exoplanetary Analysis Tools](https://github.com/xKabbe/astrolens/milestone/2)
-![Exoplanet Analysis](https://img.shields.io/badge/Exoplanet_Analysis-Active-brightgreen)
-![Exoplanet Analysis](https://img.shields.io/badge/Exoplanet_Analysis-🪐-blue)
 
-
-
-| Feature                                      | Description                                                                          |
-|----------------------------------------------|--------------------------------------------------------------------------------------|
-| `Exoplanet Analysis (Transit Method)`        | Detect exoplanets by analyzing light curves and model their orbital characteristics. |
-| `Transit Light Curve Simulator`              | Simulate light curves for exoplanets based on user-defined parameters.               |
-| `Radial Velocity Analysis`                   | Detect Doppler shifts in star spectra to identify exoplanets.                        |
+* `Exoplanet Analysis (Transit Method)` - Detect exoplanets by analyzing light curves and model their orbital characteristics.
+* `Transit Light Curve Simulator` - Simulate light curves for exoplanets based on user-defined parameters.
+* `Radial Velocity Analysis` - Detect Doppler shifts in star spectra to identify exoplanets.
 
 ### 📊 [Exoplanet Data Aggregation and Visualization](https://github.com/xKabbe/astrolens/milestone/3)
 
-| Feature                                      | Description                                                                          |
-|----------------------------------------------|--------------------------------------------------------------------------------------|
-| `Exoplanet Data Aggregator and Visualizer`   | Aggregate and visualize exoplanet data from multiple sources.                        |
-| `Transit Event Prediction and Visualization` | Predict and visualize upcoming exoplanet transit events.                             |
+* `Exoplanet Data Aggregator and Visualizer` - Aggregate and visualize exoplanet data from multiple sources.
+* `Transit Event Prediction and Visualization` - Predict and visualize upcoming exoplanet transit events.
 
 ### ⭐ [Stellar Analysis Tools](https://github.com/xKabbe/astrolens/milestone/4)
 
-| Feature                                      | Description                                                                          |
-|----------------------------------------------|--------------------------------------------------------------------------------------|
-| `Light Curve Plotting for Variable Stars`    | Plot and analyze brightness variations of variable stars.                            |
-| `Stellar Temperature Distribution`           | Visualize the temperature distribution of stars within a dataset.                    |
-| `Star Color-Magnitude Diagram`               | Analyze the relationship between star colors and magnitudes.                         |
-| `Star Magnitude Histogram`                   | Display histograms of star magnitudes within a dataset.                              |
+* `Light Curve Plotting for Variable Stars` - Plot and analyze brightness variations of variable stars.
+* `Stellar Temperature Distribution` - Visualize the temperature distribution of stars within a dataset.
+* `Star Color-Magnitude Diagram` - Analyze the relationship between star colors and magnitudes.
+* `Star Magnitude Histogram` - Display histograms of star magnitudes within a dataset.
 
 ### 🛰️ [Satellite and Orbital Tracking Tools](https://github.com/xKabbe/astrolens/milestone/5)
 
-| Feature                                      | Description                                                                          |
-|----------------------------------------------|--------------------------------------------------------------------------------------|
-| `Satellite Tracker`                          | Real-time tracking and visualization of satellite positions.                         |
-| `International Space Station (ISS) Tracker`  | Track the ISS in real-time and predict upcoming passes.                              |
-| `Satellite Flyover Predictor`                | Predict upcoming satellite flyovers based on user location.                          |
-| `Satellite Communication Frequency Finder`   | Search for communication frequencies used by satellites.                             |
+* `Satellite Tracker` - Real-time tracking and visualization of satellite positions.
+* `International Space Station (ISS) Tracker` - Track the ISS in real-time and predict upcoming passes.
+* `Satellite Flyover Predictor` - Predict upcoming satellite flyovers based on user location.
+* `Satellite Communication Frequency Finder` - Search for communication frequencies used by satellites.
 
 ### 🌠 [Night Sky Observation and Visualization Tools](https://github.com/xKabbe/astrolens/milestone/6)
 
-| Feature                                      | Description                                                                          |
-|----------------------------------------------|--------------------------------------------------------------------------------------|
-| `Night Sky Brightness Mapper`                | Visualize night sky brightness and light pollution levels.                           |
-| `Moon Phases Visualization`                  | Visualize the phases of the Moon over time, including rise/set times.                |
-| `Astronomical Event Calendar`                | List upcoming astronomical events like eclipses and meteor showers.                  |
-| `Aurora Viewing Alerts`                      | Provide alerts for aurora visibility based on geomagnetic activity forecasts.        |
+* `Night Sky Brightness Mapper` - Visualize night sky brightness and light pollution levels.
+* `Moon Phases Visualization` - Visualize the phases of the Moon over time, including rise/set times.
+* `Astronomical Event Calendar` - List upcoming astronomical events like eclipses and meteor showers.
+* `Aurora Viewing Alerts` - Provide alerts for aurora visibility based on geomagnetic activity forecasts.
 
 ## Getting Started
 
