@@ -41,38 +41,48 @@
       <img alt="ShieldsIO Badge" src="https://img.shields.io/github/milestones/progress-percent/xKabbe/astrolens/6"></a>
 </p>
 
-`AstroLens` is a comprehensive desktop application tailored for both amateur and seasoned astronomers. It provides a robust platform for analyzing and visualizing a wide range of astronomical data. With AstroLens, users can delve into the study of exoplanets, conduct detailed stellar analysis, and track various satellites. The application combines powerful analytical tools with intuitive visualizations to offer a rich, engaging experience for exploring the cosmos.
+`AstroLens` is a desktop application designed for astronomers who are passionate about discovering and studying exoplanets.
+It provides powerful tools to analyze, simulate and visualize a wide range of astronomical data, with a specific focus on exoplanetary systems.
+By leveraging cutting-edge analytical methods and intuitive visualizations, `AstroLens` offers users an immersive experience in exploring exoplanets and their characteristics.
 
-`AstroLens` supports sophisticated methods for detecting and analyzing exoplanets, enabling users to study light curves, simulate transit events, and assess planetary habitability. It also features tools for tracking and visualizing satellite movements and predicting their flyovers. The application enhances observational capabilities by offering insights into the night sky, including visualizations of moon phases, light pollution, and upcoming astronomical events.
+`AstroLens` primarily supports sophisticated exoplanet detection and analysis techniques.
+Users can study transit events, simulate light curves, and explore planetary habitability in detail.
+It also aggregates data from multiple sources, offering a centralized platform for visualizing upcoming exoplanet transits and their orbital properties.
+
+While future versions of `AstroLens` may expand into areas such as satellite tracking and stellar analysis, the initial release will concentrate on exoplanetary tools and data aggregation to ensure a focused, high-quality experience.
 
 ## Features
 
-### 🪐 [Exoplanetary Analysis Tools](https://github.com/xKabbe/astrolens/milestone/2)
+### Core Features
+
+#### 🪐 [Exoplanetary Analysis Tools](https://github.com/xKabbe/astrolens/milestone/2)
 
 * `Exoplanet Analysis (Transit Method)` - Detect exoplanets by analyzing light curves and model their orbital characteristics.
 * `Transit Light Curve Simulator` - Simulate light curves for exoplanets based on user-defined parameters.
 * `Radial Velocity Analysis` - Detect Doppler shifts in star spectra to identify exoplanets.
 
-### 📊 [Exoplanet Data Aggregation and Visualization](https://github.com/xKabbe/astrolens/milestone/3)
+#### 📊 [Exoplanet Data Aggregation and Visualization](https://github.com/xKabbe/astrolens/milestone/3)
 
 * `Exoplanet Data Aggregator and Visualizer` - Aggregate and visualize exoplanet data from multiple sources.
 * `Transit Event Prediction and Visualization` - Predict and visualize upcoming exoplanet transit events.
 
-### ⭐ [Stellar Analysis Tools](https://github.com/xKabbe/astrolens/milestone/4)
+### Future Potential Features
+
+#### ⭐ [Stellar Analysis Tools](https://github.com/xKabbe/astrolens/milestone/4)
 
 * `Light Curve Plotting for Variable Stars` - Plot and analyze brightness variations of variable stars.
 * `Stellar Temperature Distribution` - Visualize the temperature distribution of stars within a dataset.
 * `Star Color-Magnitude Diagram` - Analyze the relationship between star colors and magnitudes.
 * `Star Magnitude Histogram` - Display histograms of star magnitudes within a dataset.
 
-### 🛰️ [Satellite and Orbital Tracking Tools](https://github.com/xKabbe/astrolens/milestone/5)
+#### 🛰️ [Satellite and Orbital Tracking Tools](https://github.com/xKabbe/astrolens/milestone/5)
 
 * `Satellite Tracker` - Real-time tracking and visualization of satellite positions.
 * `International Space Station (ISS) Tracker` - Track the ISS in real-time and predict upcoming passes.
 * `Satellite Flyover Predictor` - Predict upcoming satellite flyovers based on user location.
 * `Satellite Communication Frequency Finder` - Search for communication frequencies used by satellites.
 
-### 🌠 [Night Sky Observation and Visualization Tools](https://github.com/xKabbe/astrolens/milestone/6)
+#### 🌠 [Night Sky Observation and Visualization Tools](https://github.com/xKabbe/astrolens/milestone/6)
 
 * `Night Sky Brightness Mapper` - Visualize night sky brightness and light pollution levels.
 * `Moon Phases Visualization` - Visualize the phases of the Moon over time, including rise/set times.
@@ -112,4 +122,16 @@ Coming soon...
 
 #### Run The Application
 
-Coming soon...
+Execute either
+
+```bash
+pnpm run dev
+```
+
+to run the application in you local browser under `localhost:3000` or
+
+```bash
+pnpm tauri dev
+```
+
+to actually start the tauri desktop application
