@@ -1,47 +1,40 @@
-<p align="center"><img src="./public/astrolens.png" style="width: 250px; height: 250px;" alt=""></p>
+<p align="center"><img src="assets/astrolens.png" style="width: 250px; height: 250px;" alt=""></p>
 
 <h1 align="center">AstroLens</h1>
 
 <p align="center">
    <a href="https://www.python.org/">
       <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/Python-3.12-44cc11?logo=python" /></a>
-   <a href="https://www.rust-lang.org/">
-      <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/Rust-grey?logo=rust" /></a>
+   <a href="...">
+      <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/FastAPI-grey?logo=fastapi" /></a>
+   <a href="...">
+      <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/Node.js-grey?logo=nodedotjs" /></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/JavaScript-grey?logo=javascript" /></a>
    <a href="https://www.typescriptlang.org/">
       <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/TypeScript-grey?logo=typescript" /></a>
+   <a href="...">
+      <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/Next.js-grey?logo=nextdotjs" /></a>
+   <a href="...">
+      <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/React-grey?logo=react" /></a>
+   <a href="...">
+      <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/Material_UI-grey?logo=mui" /></a>
 </p>
 
 <p align="center">
    <a href="https://github.com/xKabbe/astrolens/blob/master/LICENSE">
       <img alt="ShieldsIO Badge" src="https://img.shields.io/github/license/xKabbe/astrolens?label=License&color=yellow" /></a>
    <a href="https://github.com/xKabbe/astrolens/issues?q=is%3Aissue+is%3Aopen+">
-      <img alt="ShieldsIO Badge" src="https://img.shields.io/github/issues-search/xKabbe/astrolens?query=is%3Aopen&label=Open%20Issues&color=yellow"></a>
+      <img alt="ShieldsIO Badge" src="https://img.shields.io/github/issues-search/xKabbe/astrolens?query=is%3Aopen+is%3Aissue&label=Open%20Issues&color=yellow"></a>
    <a href="https://github.com/xKabbe/astrolens/issues?q=is%3Aissue+is%3Aclosed">
-      <img alt="ShieldsIO Badge" src="https://img.shields.io/github/issues-search/xKabbe/astrolens?query=is%3Aclosed&label=Closed%20Issues&color=green"></a>
+      <img alt="ShieldsIO Badge" src="https://img.shields.io/github/issues-search/xKabbe/astrolens?query=is%3Aissue+is%3Aclosed&label=Closed%20Issues&color=green"></a>
    <!-- <a href="https://github.com/xKabbe/astrolens/actions">
       <img alt="ShieldsIO Badge" src="https://img.shields.io/github/actions/workflow/status/xKabbe/astrolens/test_astrolens.yml?logo=github&label=Tests"></a> -->
    <!-- <a href="https://app.codecov.io/github/xKabbe/ascendify">
       <img alt="ShieldsIO Badge" src="https://img.shields.io/codecov/c/github/xKabbe/ascendify?logo=codecov&label=Codecov%20Coverage"></a> -->
 </p>
 
-<p align="center">
-   <a href="https://github.com/xKabbe/astrolens/milestone/1">
-      <img alt="ShieldsIO Badge" src="https://img.shields.io/github/milestones/progress-percent/xKabbe/astrolens/1"></a>
-   <a href="https://github.com/xKabbe/astrolens/milestone/2">
-      <img alt="ShieldsIO Badge" src="https://img.shields.io/github/milestones/progress-percent/xKabbe/astrolens/2"></a>
-   <a href="https://github.com/xKabbe/astrolens/milestone/3">
-      <img alt="ShieldsIO Badge" src="https://img.shields.io/github/milestones/progress-percent/xKabbe/astrolens/3"></a>
-   <a href="https://github.com/xKabbe/astrolens/milestone/4">
-      <img alt="ShieldsIO Badge" src="https://img.shields.io/github/milestones/progress-percent/xKabbe/astrolens/4"></a>
-   <a href="https://github.com/xKabbe/astrolens/milestone/5">
-      <img alt="ShieldsIO Badge" src="https://img.shields.io/github/milestones/progress-percent/xKabbe/astrolens/5"></a>
-   <a href="https://github.com/xKabbe/astrolens/milestone/6">
-      <img alt="ShieldsIO Badge" src="https://img.shields.io/github/milestones/progress-percent/xKabbe/astrolens/6"></a>
-</p>
-
-`AstroLens` is a desktop application designed for astronomers who are passionate about discovering and studying exoplanets.
+`AstroLens` is a web application designed for astronomers who are passionate about discovering and studying exoplanets.
 It provides powerful tools to analyze, simulate and visualize a wide range of astronomical data, with a specific focus on exoplanetary systems.
 By leveraging cutting-edge analytical methods and intuitive visualizations, `AstroLens` offers users an immersive experience in exploring exoplanets and their characteristics.
 
@@ -55,6 +48,15 @@ While future versions of `AstroLens` may expand into areas such as satellite tra
 
 ### Core Features
 
+<p align="center">
+   <a href="https://github.com/xKabbe/astrolens/milestone/1">
+      <img alt="ShieldsIO Badge" src="https://img.shields.io/github/milestones/progress-percent/xKabbe/astrolens/1"></a>
+   <a href="https://github.com/xKabbe/astrolens/milestone/2">
+      <img alt="ShieldsIO Badge" src="https://img.shields.io/github/milestones/progress-percent/xKabbe/astrolens/2"></a>
+   <a href="https://github.com/xKabbe/astrolens/milestone/3">
+      <img alt="ShieldsIO Badge" src="https://img.shields.io/github/milestones/progress-percent/xKabbe/astrolens/3"></a>
+</p>
+
 #### 🪐 [Exoplanetary Analysis Tools](https://github.com/xKabbe/astrolens/milestone/2)
 
 * `Exoplanet Analysis (Transit Method)` - Detect exoplanets by analyzing light curves and model their orbital characteristics.
@@ -67,6 +69,15 @@ While future versions of `AstroLens` may expand into areas such as satellite tra
 * `Transit Event Prediction and Visualization` - Predict and visualize upcoming exoplanet transit events.
 
 ### Future Potential Features
+
+<p align="center">
+   <a href="https://github.com/xKabbe/astrolens/milestone/4">
+      <img alt="ShieldsIO Badge" src="https://img.shields.io/github/milestones/progress-percent/xKabbe/astrolens/4"></a>
+   <a href="https://github.com/xKabbe/astrolens/milestone/5">
+      <img alt="ShieldsIO Badge" src="https://img.shields.io/github/milestones/progress-percent/xKabbe/astrolens/5"></a>
+   <a href="https://github.com/xKabbe/astrolens/milestone/6">
+      <img alt="ShieldsIO Badge" src="https://img.shields.io/github/milestones/progress-percent/xKabbe/astrolens/6"></a>
+</p>
 
 #### ⭐ [Stellar Analysis Tools](https://github.com/xKabbe/astrolens/milestone/4)
 
@@ -91,19 +102,14 @@ While future versions of `AstroLens` may expand into areas such as satellite tra
 
 ## Getting Started
 
-To get started with `AstroLens`, follow these steps to set up you development environment and run the application locally:
+To get started with `AstroLens` see the following sections:
 
 ### Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
 
-1. Node.js (v14 or later) - for managing JavaScript dependencies
-2. Rust - ensure you have the Rust toolchain installed
-3. Python (v3.12 or later) - for backend data analysis tasks
-4. Tauri CLI - for building and running Tauri applications
-
-You can visit the [Tauri - Getting Started Prerequisites](https://tauri.app/v1/guides/getting-started/prerequisites) section to make sure, everything is installed properly.
-This includes step 1, 2, and 4.
+1. [Node.js](https://nodejs.org/en) (v18.17 or later) - for managing JavaScript dependencies
+2. [Python](https://www.python.org/) (v3.12 or later) - for backend tasks
 
 #### Clone The Repository
 
@@ -112,26 +118,22 @@ git clone git@github.com:xKabbe/astrolens.git
 cd astrolens
 ```
 
-#### Set Up The Frontend
+#### Frontend
 
-Coming soon...
-
-#### Set Up The Backend
-
-Coming soon...
-
-#### Run The Application
-
-Execute either
+Go to:
 
 ```bash
-pnpm run dev
+cd frontend
 ```
 
-to run the application in you local browser under `localhost:3000` or
+For more information on setting up and running the fronted see [here](frontend/README.md).
+
+#### Backend
+
+Go to:
 
 ```bash
-pnpm tauri dev
+cd backend
 ```
 
-to actually start the tauri desktop application
+For more information on setting up and running the backend see [here](backend/README.md).
