@@ -36,8 +36,11 @@ Coming soon...
 
 ## Run The Backend
 
+Execute this command to run the `FastAPI` backend on [localhost:8000](http://localhost:8000) from within the `backend` directory:
+
 ```bash
-fastapi dev backend/main.js
+uvicorn app.main:app --reload
 ```
 
-Execute this command to run the `FastAPI` backend on `localhost:8000`.
+Using `uvicorn` allows us to start the `FastAPI` development server with hot reloading.
+Additionally, the auto-generated API docs are accessible under [localhost:8000/docs](http://localhost:8000/docs).

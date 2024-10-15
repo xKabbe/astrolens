@@ -5,20 +5,28 @@
 <p align="center">
    <a href="https://www.python.org/">
       <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/Python-3.12-44cc11?logo=python" /></a>
-   <a href="...">
+   <a href="https://fastapi.tiangolo.com/">
       <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/FastAPI-grey?logo=fastapi" /></a>
-   <a href="...">
+   <a href="https://nodejs.org/en">
       <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/Node.js-grey?logo=nodedotjs" /></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/JavaScript-grey?logo=javascript" /></a>
    <a href="https://www.typescriptlang.org/">
       <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/TypeScript-grey?logo=typescript" /></a>
-   <a href="...">
+   <a href="https://nextjs.org/">
       <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/Next.js-grey?logo=nextdotjs" /></a>
-   <a href="...">
+   <a href="https://react.dev/">
       <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/React-grey?logo=react" /></a>
-   <a href="...">
+   <a href="https://mui.com/">
       <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/Material_UI-grey?logo=mui" /></a>
+   <a href="https://grafana.com/">
+      <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/Grafana-grey?logo=grafana" /></a>
+   <a href="https://www.docker.com/">
+      <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/Docker-grey?logo=docker" /></a>
+   <a href="https://www.mongodb.com/">
+      <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/MongoDB-grey?logo=mongodb" /></a>
+   <a href="https://www.postgresql.org/">
+      <img alt="ShieldsIO Badge" src="https://img.shields.io/badge/PostgreSQL-grey?logo=postgresql" /></a>
 </p>
 
 <p align="center">
@@ -110,6 +118,7 @@ Before you begin, ensure you have the following installed on your system:
 
 1. [Node.js](https://nodejs.org/en) (v18.17 or later) - for managing JavaScript dependencies
 2. [Python](https://www.python.org/) (v3.12 or later) - for backend tasks
+3. [pip](https://pypi.org/project/pip/) (v24.2 or later) - for installing and managing python packages
 
 #### Clone The Repository
 

@@ -16,4 +16,4 @@ pnpm install
 pnpm run dev
 ```
 
-Execute this command to run the `Next.js` frontend on `localhost:3000`.
+Execute this command to run the `Next.js` frontend on [localhost:3000](http://localhost:3000).
